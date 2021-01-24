@@ -6,6 +6,9 @@
 
 #### A guide covering Machine Learning including the applications, libraries and tools that will make you better and more efficient with Machine Learning development.
 
+<img src="https://user-images.githubusercontent.com/45159366/105645196-dccfd480-5e4e-11eb-95d1-c5eb560b72fd.jpeg">
+
+**Machine Learning/Deep Learning Frameworks.**
 
 ## Resources
 
