@@ -33,6 +33,7 @@
 
 
 # Learning Resources for ML
+[Back to the Top](https://github.com/mikeroyal/Machine-Learning-Guide#table-of-contents)
 
 [Machine Learning](https://www.ibm.com/cloud/learn/machine-learning) is a branch of artificial intelligence (AI) focused on building apps using algorithms that learn from data models and improve their accuracy over time without needing to be programmed.
 
@@ -65,6 +66,7 @@
 [Learn Machine Learning with Online Courses and Classes from edX](https://www.edx.org/learn/machine-learning)
 
 # ML Frameworks, Libraries, and Tools
+[Back to the Top](https://github.com/mikeroyal/Machine-Learning-Guide#table-of-contents)
 
 [TensorFlow](https://www.tensorflow.org) is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries and community resources that lets researchers push the state-of-the-art in ML and developers easily build and deploy ML powered applications.
 
