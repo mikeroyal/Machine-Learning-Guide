@@ -24,7 +24,7 @@
 
 4. [Deep Learning Development](https://github.com/mikeroyal/Machine-Learning-Guide#Deep-Learning-Development)
 
-5. [Reinforcement Learning Development](https://github.com/mikeroyal/Machine-Learning-Guide#-Reinforcement-Learning-Development)
+5. [Reinforcement Learning Development](https://github.com/mikeroyal/Machine-Learning-Guide#Reinforcement-Learning-Development)
 
 6. [Computer Vision Development](https://github.com/mikeroyal/Machine-Learning-Guide#computer-vision-development)
 
