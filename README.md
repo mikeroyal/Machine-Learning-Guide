@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/96352527-ad077880-1078-11eb-98b7-da1c0586cf0e.png">
+ <img src="https://user-images.githubusercontent.com/45159366/134075212-b132056a-5980-4610-a141-dd0677b17b5f.png">
   <br />
   Machine Learning Guide
 </h1>
@@ -8,6 +8,11 @@
 
  **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
  
+<img src="https://user-images.githubusercontent.com/45159366/134075227-d9e361c6-abb7-47bc-9fae-b20f73649696.png">
+
+<img src="https://user-images.githubusercontent.com/45159366/134075233-925d48fd-47f2-44d0-946b-0453272bde35.jpeg">
+
+**Machine Learning/Deep Learning Frameworks.**
 
 # Table of Contents
 
@@ -42,10 +47,6 @@
 15. [R Development](https://github.com/mikeroyal/Machine-Learning-Guide#r-development)
 
 16. [Julia Development](https://github.com/mikeroyal/Machine-Learning-Guide#julia-development)
-
-<img src="https://user-images.githubusercontent.com/45159366/105645196-dccfd480-5e4e-11eb-95d1-c5eb560b72fd.jpeg">
-
-**Machine Learning/Deep Learning Frameworks.**
 
 
 # Learning Resources for ML
