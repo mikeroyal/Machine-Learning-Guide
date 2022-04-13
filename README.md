@@ -22,31 +22,37 @@
 
 3. [Algorithms](https://github.com/mikeroyal/Machine-Learning-Guide#Algorithms)
 
-4. [Deep Learning Development](https://github.com/mikeroyal/Machine-Learning-Guide#Deep-Learning-Development)
+4. [PyTorch Development](https://github.com/mikeroyal/Machine-Learning-Guide#pytorch-development)
 
-5. [Reinforcement Learning Development](https://github.com/mikeroyal/Machine-Learning-Guide#Reinforcement-Learning-Development)
+5. [TensorFlow Development](https://github.com/mikeroyal/Machine-Learning-Guide#tensorflow-development)
 
-6. [Computer Vision Development](https://github.com/mikeroyal/Machine-Learning-Guide#computer-vision-development)
+6. [Core ML Development](https://github.com/mikeroyal/Machine-Learning-Guide#core-ml-development)
 
-7. [Natural Language Processing (NLP) Development](https://github.com/mikeroyal/Machine-Learning-Guide#nlp-development)
+7. [Deep Learning Development](https://github.com/mikeroyal/Machine-Learning-Guide#Deep-Learning-Development)
 
-8. [Bioinformatics](https://github.com/mikeroyal/Machine-Learning-Guide#bioinformatics)
+8. [Reinforcement Learning Development](https://github.com/mikeroyal/Machine-Learning-Guide#Reinforcement-Learning-Development)
 
-9. [CUDA Development](https://github.com/mikeroyal/Machine-Learning-Guide#cuda-development)
+9. [Computer Vision Development](https://github.com/mikeroyal/Machine-Learning-Guide#computer-vision-development)
 
-10. [MATLAB Development](https://github.com/mikeroyal/Machine-Learning-Guide#matlab-development)
+10. [Natural Language Processing (NLP) Development](https://github.com/mikeroyal/Machine-Learning-Guide#nlp-development)
 
-11. [C/C++ Development](https://github.com/mikeroyal/Machine-Learning-Guide#cc-development)
+11. [Bioinformatics](https://github.com/mikeroyal/Machine-Learning-Guide#bioinformatics)
 
-12. [Java Development](https://github.com/mikeroyal/Machine-Learning-Guide#java-development)
+12. [CUDA Development](https://github.com/mikeroyal/Machine-Learning-Guide#cuda-development)
 
-13. [Python Development](https://github.com/mikeroyal/Machine-Learning-Guide#python-development)
+13. [MATLAB Development](https://github.com/mikeroyal/Machine-Learning-Guide#matlab-development)
 
-14. [Scala Development](https://github.com/mikeroyal/Machine-Learning-Guide#scala-development)
+14. [C/C++ Development](https://github.com/mikeroyal/Machine-Learning-Guide#cc-development)
 
-15. [R Development](https://github.com/mikeroyal/Machine-Learning-Guide#r-development)
+15. [Java Development](https://github.com/mikeroyal/Machine-Learning-Guide#java-development)
 
-16. [Julia Development](https://github.com/mikeroyal/Machine-Learning-Guide#julia-development)
+16. [Python Development](https://github.com/mikeroyal/Machine-Learning-Guide#python-development)
+
+17. [Scala Development](https://github.com/mikeroyal/Machine-Learning-Guide#scala-development)
+
+18. [R Development](https://github.com/mikeroyal/Machine-Learning-Guide#r-development)
+
+19. [Julia Development](https://github.com/mikeroyal/Machine-Learning-Guide#julia-development)
 
 
 # Learning Resources for ML
@@ -153,10 +159,6 @@
 
 [cuML](https://github.com/rapidsai/cuml) is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects. cuML enables data scientists, researchers, and software engineers to run traditional tabular ML tasks on GPUs without going into the details of CUDA programming. In most cases, cuML's Python API matches the API from scikit-learn.
 
-
-
-
-
 # Algorithms
 [Back to the Top](https://github.com/mikeroyal/Machine-Learning-Guide#table-of-contents)
 
@@ -240,6 +242,362 @@
 </p>
 
 **Bayes' theorem. Source:[mathisfun](https://www.mathsisfun.com/data/bayes-theorem.html)**
+
+# PyTorch Development
+
+[Back to the Top](https://github.com/mikeroyal/Machine-Learning-Guide#table-of-contents)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/135770888-33dc24b8-f341-4bbe-a264-cf335273c587.png">
+  <br />
+</p>
+
+## PyTorch Learning Resources
+
+[PyTorch](https://pytorch.org) is an open-source deep learning framework that accelerates the path from research to production, used for applications such as computer vision and natural language processing. PyTorch is developed by [Facebook's AI Research](https://ai.facebook.com/research/) lab.
+
+[Getting Started with PyTorch](https://pytorch.org/get-started/locally/)
+
+[PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
+
+[PyTorch Discussion Forum](https://discuss.pytorch.org/)
+
+[Top Pytorch Courses Online | Coursera](https://www.coursera.org/courses?query=pytorch&page=1)
+
+[Top Pytorch Courses Online | Udemy](https://www.udemy.com/topic/PyTorch/)
+
+[Learn PyTorch with Online Courses and Classes | edX](https://www.edx.org/learn/pytorch)
+
+[PyTorch Fundamentals - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/pytorch-fundamentals/)
+
+[Intro to Deep Learning with PyTorch | Udacity ](https://www.udacity.com/course/deep-learning-pytorch--ud188)
+
+[PyTorch Development in Visual Studio Code](https://code.visualstudio.com/docs/datascience/pytorch-support)
+
+[PyTorch on Azure - Deep Learning with PyTorch | Microsoft Azure](https://azure.microsoft.com/en-us/develop/pytorch/)
+
+[PyTorch - Azure Databricks | Microsoft Docs](https://docs.microsoft.com/en-us/azure/databricks/applications/machine-learning/train-model/pytorch)
+
+[Deep Learning with PyTorch | Amazon Web Services (AWS)](https://aws.amazon.com/pytorch/)
+
+[Getting started with PyTorch on Google Cloud](https://cloud.google.com/ai-platform/training/docs/getting-started-pytorch)
+
+## PyTorch Tools, Libraries, and Frameworks
+
+[PyTorch Mobile](https://pytorch.org/mobile/home/) is an end-to-end ML workflow from Training to Deployment for iOS and Android mobile devices.
+
+[TorchScript](https://pytorch.org/docs/stable/jit.html) is a way to create serializable and optimizable models from PyTorch code. This allows any TorchScript program to be saved from a Python process and loaded in a process where there is no Python dependency.
+
+[TorchServe](https://pytorch.org/serve/) is a flexible and easy to use tool for serving PyTorch models.
+
+[Keras](https://keras.io) is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano.It was developed with a focus on enabling fast experimentation. It is capable of running on top of TensorFlow, Microsoft Cognitive Toolkit, R, Theano, or PlaidML.
+
+[ONNX Runtime](https://github.com/microsoft/onnxruntime) is a cross-platform, high performance ML inferencing and training accelerator. It supports models from deep learning frameworks such as PyTorch and TensorFlow/Keras as well as classical machine learning libraries such as scikit-learn, LightGBM, XGBoost, etc.
+
+[Kornia](https://kornia.github.io/) is a differentiable computer vision library that consists of a set of routines and differentiable modules to solve generic CV (Computer Vision) problems.
+
+[PyTorch-NLP](https://pytorchnlp.readthedocs.io/en/latest/) is a library for Natural Language Processing (NLP) in Python. It’s built with the very latest research in mind, and was designed from day one to support rapid prototyping. PyTorch-NLP comes with pre-trained embeddings, samplers, dataset loaders, metrics, neural network modules and text encoders.
+
+[Ignite](https://pytorch.org/ignite) is a high-level library to help with training and evaluating neural networks in PyTorch flexibly and transparently.
+
+[Hummingbird](https://github.com/microsoft/hummingbird) is a library for compiling trained traditional ML models into tensor computations. It allows users to seamlessly leverage neural network frameworks (such as PyTorch) to accelerate traditional ML models.
+
+[Deep Graph Library (DGL)](https://www.dgl.ai/) is a Python package built for easy implementation of graph neural network model family, on top of PyTorch and other frameworks.
+
+[TensorLy](http://tensorly.org/stable/home.html) is a high level API for tensor methods and deep tensorized neural networks in Python that aims to make tensor learning simple.
+
+[GPyTorch](https://cornellius-gp.github.io/) is a Gaussian process library implemented using PyTorch, designed for creating scalable, flexible Gaussian process models.
+
+[Poutyne](https://poutyne.org/) is a Keras-like framework for PyTorch and handles much of the boilerplating code needed to train neural networks.
+
+[Forte](https://github.com/asyml/forte/tree/master/docs) is a toolkit for building NLP pipelines featuring composable components, convenient data interfaces, and cross-task interaction.
+
+[TorchMetrics](https://github.com/PyTorchLightning/metrics) is a Machine learning metrics for distributed, scalable PyTorch applications.
+
+[Captum](https://captum.ai/) is an open source, extensible library for model interpretability built on PyTorch.
+
+[Transformer](https://github.com/huggingface/transformers) is a State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.
+
+[Hydra](https://hydra.cc) is a framework for elegantly configuring complex applications.
+
+[Accelerate](https://huggingface.co/docs/accelerate) is a simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision.
+
+[Ray](https://github.com/ray-project/ray) is a fast and simple framework for building and running distributed applications.
+
+[ParlAI](http://parl.ai/) is a unified platform for sharing, training, and evaluating dialog models across many tasks.
+
+[PyTorchVideo](https://pytorchvideo.org/) is a deep learning library for video understanding research. Hosts various video-focused models, datasets, training pipelines and more.
+
+[Opacus](https://opacus.ai/) is a library that enables training PyTorch models with Differential Privacy.
+
+[PyTorch Lightning](https://github.com/williamFalcon/pytorch-lightning) is a Keras-like ML library for PyTorch. It leaves core training and validation logic to you and automates the rest.
+
+[PyTorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) is a temporal (dynamic) extension library for PyTorch Geometric.
+
+[PyTorch Geometric](https://github.com/rusty1s/pytorch_geometric) is a library for deep learning on irregular input data such as graphs, point clouds, and manifolds.
+
+[Raster Vision](https://docs.rastervision.io/) is an open source framework for deep learning on satellite and aerial imagery.
+
+[CrypTen](https://github.com/facebookresearch/CrypTen) is a framework for Privacy Preserving ML. Its goal is to make secure computing techniques accessible to ML practitioners.
+
+[Optuna](https://optuna.org/) is an open source hyperparameter optimization framework to automate hyperparameter search.
+
+[Pyro](http://pyro.ai/) is a universal probabilistic programming language (PPL) written in Python and supported by PyTorch on the backend.
+
+[Albumentations](https://github.com/albu/albumentations) is a fast and extensible image augmentation library for different CV tasks like classification, segmentation, object detection and pose estimation.
+
+[Skorch](https://github.com/skorch-dev/skorch) is a high-level library for PyTorch that provides full scikit-learn compatibility.
+
+[MMF](https://mmf.sh/) is a modular framework for vision & language multimodal research from Facebook AI Research (FAIR).
+
+[AdaptDL](https://github.com/petuum/adaptdl) is a resource-adaptive deep learning training and scheduling framework.
+
+[Polyaxon](https://github.com/polyaxon/polyaxon) is a platform for building, training, and monitoring large-scale deep learning applications.
+
+[TextBrewer](http://textbrewer.hfl-rc.com/) is a PyTorch-based knowledge distillation toolkit for natural language processing
+
+[AdverTorch](https://github.com/BorealisAI/advertorch) is a toolbox for adversarial robustness research. It contains modules for generating adversarial examples and defending against attacks.
+
+[NeMo](https://github.com/NVIDIA/NeMo) is a a toolkit for conversational AI.
+
+[ClinicaDL](https://clinicadl.readthedocs.io/) is a framework for reproducible classification of Alzheimer's Disease
+
+[Stable Baselines3 (SB3)](https://github.com/DLR-RM/stable-baselines3) is a set of reliable implementations of reinforcement learning algorithms in PyTorch.
+
+[TorchIO](https://github.com/fepegar/torchio) is a set of tools to efficiently read, preprocess, sample, augment, and write 3D medical images in deep learning applications written in PyTorch.
+
+[PySyft](https://github.com/OpenMined/PySyft) is a Python library for encrypted, privacy preserving deep learning.
+
+[Flair](https://github.com/flairNLP/flair) is a very simple framework for state-of-the-art natural language processing (NLP).
+
+[Glow](https://github.com/pytorch/glow) is a ML compiler that accelerates the performance of deep learning frameworks on different hardware platforms.
+
+[FairScale](https://github.com/facebookresearch/fairscale) is a PyTorch extension library for high performance and large scale training on one or multiple machines/nodes.
+
+[MONAI](https://monai.io/) is a deep learning framework that provides domain-optimized foundational capabilities for developing healthcare imaging training workflows.
+
+[PFRL](https://github.com/pfnet/pfrl) is a deep reinforcement learning library that implements various state-of-the-art deep reinforcement algorithms in Python using PyTorch.
+
+[Einops](https://github.com/arogozhnikov/einops) is a flexible and powerful tensor operations for readable and reliable code.
+
+[PyTorch3D](https://pytorch3d.org/) is a deep learning library that provides efficient, reusable components for 3D Computer Vision research with PyTorch.
+
+[Ensemble Pytorch](https://ensemble-pytorch.readthedocs.io/) is a unified ensemble framework for PyTorch to improve the performance and robustness of your deep learning model.
+
+[Lightly](https://github.com/lightly-ai/lightly) is a computer vision framework for self-supervised learning.
+
+[Higher](https://github.com/facebookresearch/higher) is a library which facilitates the implementation of arbitrarily complex gradient-based meta-learning algorithms and nested optimisation loops with near-vanilla PyTorch.
+
+[Horovod](http://horovod.ai/) is a distributed training library for deep learning frameworks. Horovod aims to make distributed DL fast and easy to use.
+
+[PennyLane](https://pennylane.ai/) is a library for quantum ML, automatic differentiation, and optimization of hybrid quantum-classical computations.
+
+[Detectron2](https://github.com/facebookresearch/detectron2) is FAIR's next-generation platform for object detection and segmentation.
+
+[Fastai](https://docs.fast.ai/) is a library that simplifies training fast and accurate neural nets using modern best practices.
+
+# TensorFlow Development
+
+[Back to the Top](https://github.com/mikeroyal/Machine-Learning-Guide#table-of-contents)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/135770877-ba05b184-89d5-4762-9142-4e0640d52bae.png">
+  <br />
+</p>
+
+## TensorFlow Learning Resources
+
+[TensorFlow](https://www.tensorflow.org) is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries and community resources that lets researchers push the state-of-the-art in ML and developers easily build and deploy ML powered applications.
+
+[Getting Started with TensorFlow](https://www.tensorflow.org/learn)
+
+[TensorFlow Tutorials](https://www.tensorflow.org/tutorials/)
+
+[TensorFlow Developer Certificate | TensorFlow](https://www.tensorflow.org/certificate)
+
+[TensorFlow Community](https://www.tensorflow.org/community/)
+
+[TensorFlow Models & Datasets](https://www.tensorflow.org/resources/models-datasets)
+
+[TensorFlow Cloud](https://www.tensorflow.org/cloud)
+
+[Machine learning education | TensorFlow](https://www.tensorflow.org/resources/learn-ml)
+
+[Top Tensorflow Courses Online | Coursera](https://www.coursera.org/courses?query=tensorflow)
+
+[Top Tensorflow Courses Online | Udemy](https://www.udemy.com/courses/search/?src=ukw&q=tensorflow)
+
+[Deep Learning with TensorFlow | Udemy](https://www.udemy.com/course/deep-learning-with-tensorflow-certification-training/)
+
+[Deep Learning with Tensorflow | edX](https://www.edx.org/course/deep-learning-with-tensorflow)
+
+[Intro to TensorFlow for Deep Learning | Udacity ](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+
+[Intro to TensorFlow: Machine Learning Crash Course | Google Developers](https://developers.google.com/machine-learning/crash-course/first-steps-with-tensorflow/toolkit)
+
+[Train and deploy a TensorFlow model - Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-train-tensorflow)
+
+[Apply machine learning models in Azure Functions with Python and TensorFlow | Microsoft Azure](https://docs.microsoft.com/en-us/azure/azure-functions/functions-machine-learning-tensorflow?tabs=bash)
+
+[Deep Learning with TensorFlow | Amazon Web Services (AWS)](https://aws.amazon.com/tensorflow/)
+
+[TensorFlow - Amazon EMR | AWS Documentation](https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-tensorflow.html)
+
+[TensorFlow Enterprise | Google Cloud](https://cloud.google.com/tensorflow-enterprise/)
+
+## TensorFlow Tools, Libraries, and Frameworks
+
+[TensorFlow Lite](https://www.tensorflow.org/lite/) is an open source deep learning framework for deploying machine learning models on mobile and IoT devices.
+
+[TensorFlow.js](https://www.tensorflow.org/js) is a JavaScript Library that lets you develop or execute ML models in JavaScript, and use ML directly in the browser client side, server side via Node.js, mobile native via React Native, desktop native via Electron, and even on IoT devices via Node.js on Raspberry Pi.
+
+[Tensorflow_macOS](https://github.com/apple/tensorflow_macos) is a Mac-optimized version of TensorFlow and TensorFlow Addons for macOS 11.0+ accelerated using Apple's ML Compute framework.
+
+[Google Colaboratory](https://colab.sandbox.google.com/notebooks/welcome.ipynb) is a free Jupyter notebook environment that requires no setup and runs entirely in the cloud, allowing you to execute TensorFlow code in your browser with a single click.
+
+[What-If Tool](https://pair-code.github.io/what-if-tool/) is a tool for code-free probing of machine learning models, useful for model understanding, debugging, and fairness. Available in TensorBoard and jupyter or colab notebooks.
+
+[TensorBoard](https://www.tensorflow.org/tensorboard) is a suite of visualization tools to understand, debug, and optimize TensorFlow programs.
+
+[Keras](https://keras.io) is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano.It was developed with a focus on enabling fast experimentation. It is capable of running on top of TensorFlow, Microsoft Cognitive Toolkit, R, Theano, or PlaidML.
+
+[XLA (Accelerated Linear Algebra)](https://www.tensorflow.org/xla) is a domain-specific compiler for linear algebra that optimizes TensorFlow computations. The results are improvements in speed, memory usage, and portability on server and mobile platforms.
+
+[ML Perf](https://mlperf.org/) is a broad ML benchmark suite for measuring performance of ML software frameworks, ML hardware accelerators, and ML cloud platforms.
+
+[TensorFlow Playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.04620&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false) is an development environment to tinker around with a neural network in your browser.
+
+[TPU Research Cloud (TRC)](https://sites.research.google/trc/) is a program enables researchers to apply for access to a cluster of more than 1,000 Cloud TPUs at no charge to help them accelerate the next wave of research breakthroughs.
+
+[MLIR](https://www.tensorflow.org/mlir) is a new intermediate representation and compiler framework.
+
+[Lattice](https://www.tensorflow.org/lattice) is a library for flexible, controlled and interpretable ML solutions with common-sense shape constraints.
+
+[TensorFlow Hub](https://www.tensorflow.org/hub) is a library for reusable machine learning. Download and reuse the latest trained models with a minimal amount of code.
+
+[TensorFlow Cloud](https://www.tensorflow.org/cloud) is a library to connect your local environment to Google Cloud.
+
+[TensorFlow Model Optimization Toolkit](https://www.tensorflow.org/model_optimization) is a suite of tools for optimizing ML models for deployment and execution.
+
+[TensorFlow Recommenders](https://www.tensorflow.org/recommenders) is a library for building recommender system models.
+
+[TensorFlow Text](https://www.tensorflow.org/text) is a collection of text- and NLP-related classes and ops ready to use with TensorFlow 2.
+
+[TensorFlow Graphics](https://www.tensorflow.org/graphics) is a library of computer graphics functionalities ranging from cameras, lights, and materials to renderers.
+
+[TensorFlow Federated](https://www.tensorflow.org/federated) is an open source framework for machine learning and other computations on decentralized data.
+
+[TensorFlow Probability](https://www.tensorflow.org/probability) is a library for probabilistic reasoning and statistical analysis.
+
+[Tensor2Tensor](https://github.com/tensorflow/tensor2tensor) is a library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.
+
+[TensorFlow Privacy](https://www.tensorflow.org/responsible_ai/privacy) is a Python library that includes implementations of TensorFlow optimizers for training machine learning models with differential privacy.
+
+[TensorFlow Ranking](https://github.com/tensorflow/ranking) is a library for Learning-to-Rank (LTR) techniques on the TensorFlow platform.
+
+[TensorFlow Agents](https://www.tensorflow.org/agents) is a library for reinforcement learning in TensorFlow.
+
+[TensorFlow Addons](https://github.com/tensorflow/addons) is a repository of contributions that conform to well-established API patterns, but implement new functionality not available in core TensorFlow, maintained by [SIG Addons](https://groups.google.com/a/tensorflow.org/g/addons). TensorFlow natively supports a large number of operators, layers, metrics, losses, and optimizers.
+
+[TensorFlow I/O](https://github.com/tensorflow/io) is a Dataset, streaming, and file system extensions, maintained by SIG IO.
+
+[TensorFlow Quantum](https://www.tensorflow.org/quantum) is a quantum machine learning library for rapid prototyping of hybrid quantum-classical ML models.
+
+[Dopamine](https://github.com/google/dopamine) is a research framework for fast prototyping of reinforcement learning algorithms.
+
+[TRFL](https://deepmind.com/blog/trfl/) is a library for reinforcement learning building blocks created by DeepMind.
+
+[Mesh TensorFlow](https://github.com/tensorflow/mesh) is a language for distributed deep learning, capable of specifying a broad class of distributed tensor computations.
+
+[RaggedTensors](https://www.tensorflow.org/guide/ragged_tensor) is an API that makes it easy to store and manipulate data with non-uniform shape, including text (words, sentences, characters), and batches of variable length.
+
+[Unicode Ops](https://www.tensorflow.org/tutorials/load_data/unicode) is an API that Supports working with Unicode text directly in TensorFlow.
+
+[Magenta](https://magenta.tensorflow.org/) is a research project exploring the role of machine learning in the process of creating art and music.
+
+[Nucleus](https://github.com/google/nucleus) is a library of Python and C++ code designed to make it easy to read, write and analyze data in common genomics file formats like SAM and VCF.
+
+[Sonnet](https://github.com/deepmind/sonnet) is a library from DeepMind for constructing neural networks.
+
+[Neural Structured Learning](https://www.tensorflow.org/neural_structured_learning) is a learning framework to train neural networks by leveraging structured signals in addition to feature inputs.
+
+[Model Remediation](https://www.tensorflow.org/responsible_ai/model_remediation) is a library to help create and train models in a way that reduces or eliminates user harm resulting from underlying performance biases.
+
+[Fairness Indicators](https://www.tensorflow.org/responsible_ai/fairness_indicators/guide) is a library that enables easy computation of commonly-identified fairness metrics for binary and multiclass classifiers.
+
+[Decision Forests](https://www.tensorflow.org/decision_forests) is a State-of-the-art algorithms for training, serving and interpreting models that use decision forests for classification, regression and ranking.
+
+# Core ML Development
+
+[Back to the Top](https://github.com/mikeroyal/Machine-Learning-Guide#table-of-contents)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/132140794-0d4bf654-0884-4068-b5bb-eaee36c36797.png">
+  <br />
+</p>
+
+## Core ML Learning Resources
+
+[Core ML](https://developer.apple.com/documentation/coreml) is an Apple framework for integrating machine learning models into apps running on Apple devices (including iOS, watchOS, macOS, and tvOS). Core ML introduces a public file format (.mlmodel) for a broad set of ML methods including deep neural networks (both convolutional and recurrent), tree ensembles with boosting, and generalized linear models. Models in this format can be directly integrated into apps through Xcode.
+
+[Introduction to Core ML](https://coremltools.readme.io/docs)
+
+[Integrating a Core ML Model into your App](https://developer.apple.com/documentation/coreml/integrating_a_core_ml_model_into_your_app)
+
+[Core ML Models](https://developer.apple.com/machine-learning/models/)
+
+[Core ML API Reference](https://apple.github.io/coremltools/index.html)
+
+[Core ML Specification](https://apple.github.io/coremltools/mlmodel/index.html)
+
+[Apple Developer Forums for Core ML](https://developer.apple.com/forums/tags/core-ml)
+
+[Top Core ML Courses Online | Udemy](https://www.udemy.com/topic/Core-ML/)
+
+[Top Core ML Courses Online | Coursera](https://www.coursera.org/courses?query=core%20ml)
+
+[IBM Watson Services for Core ML | IBM](https://www.ibm.com/watson/stories/coreml)
+
+[Generate Core ML assets using IBM Maximo Visual Inspection | IBM](https://developer.ibm.com/technologies/iot/tutorials/ibm-maximo-visual-inspection-apple-devices/)
+
+## Core ML Tools, Libraries, and Frameworks
+
+[Core ML tools](https://coremltools.readme.io/) is a project that contains supporting tools for Core ML model conversion, editing, and validation.
+
+[Create ML](https://developer.apple.com/machine-learning/create-ml/) is a tool that provides new ways of training machine learning models on your Mac. It takes the complexity out of model training while producing powerful Core ML models.
+
+[Tensorflow_macOS](https://github.com/apple/tensorflow_macos) is a Mac-optimized version of TensorFlow and TensorFlow Addons for macOS 11.0+ accelerated using Apple's ML Compute framework.
+
+[Apple Vision](https://developer.apple.com/documentation/vision) is a framework that performs face and face landmark detection, text detection, barcode recognition, image registration, and general feature tracking. Vision also allows the use of custom Core ML models for tasks like classification or object detection.
+
+[Keras](https://keras.io) is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano.It was developed with a focus on enabling fast experimentation. It is capable of running on top of TensorFlow, Microsoft Cognitive Toolkit, R, Theano, or PlaidML.
+
+[XGBoost](https://xgboost.readthedocs.io/) is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. It implements machine learning algorithms under the Gradient Boosting framework. XGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way. It supports distributed training on multiple machines, including AWS, GCE, Azure, and Yarn clusters. Also, it can be integrated with Flink, Spark and other cloud dataflow systems.
+
+[LIBSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/) is an integrated software for support vector classification, (C-SVC, nu-SVC), regression (epsilon-SVR, nu-SVR) and distribution estimation (one-class SVM). It supports multi-class classification.
+
+[Scikit-Learn](https://scikit-learn.org/stable/index.html) is a simple and efficient tool for data mining and data analysis. It is built on NumPy,SciPy, and mathplotlib.
+
+[Xcode](https://developer.apple.com/xcode/) includes everything developers need to create great applications for Mac, iPhone, iPad, Apple TV, and Apple Watch. Xcode provides developers a unified workflow for user interface design, coding, testing, and debugging. Xcode is built as an Universal app that runs 100% natively on Intel-based CPUs and Apple Silicon. It includes a unified macOS SDK that features all the frameworks, compilers, debuggers, and other tools you need to build apps that run natively on Apple Silicon and the Intel x86_64 CPU.
+
+[SwiftUI](https://developer.apple.com/documentation/swiftui) is a user interface toolkit that provides views, controls, and layout structures for declaring your app's user interface. The SwiftUI framework provides event handlers for delivering taps, gestures, and other types of input to your application.
+
+[UIKit](https://developer.apple.com/documentation/uikit) is a framework provides the required infrastructure for your iOS or tvOS apps. It provides the window and view architecture for implementing your interface, the event handling infrastructure for delivering Multi-Touch and other types of input to your app, and the main run loop needed to manage interactions among the user, the system, and your app.
+
+[AppKit](https://developer.apple.com/documentation/appkit) is a graphical user interface toolkit that contains all the objects you need to implement the user interface for a macOS app such as windows, panels, buttons, menus, scrollers, and text fields, and it handles all the details for you as it efficiently draws on the screen, communicates with hardware devices and screen buffers, clears areas of the screen before drawing, and clips views.
+
+[ARKit](https://developer.apple.com/augmented-reality/arkit/) is a set set of software development tools to enable developers to build augmented-reality apps for iOS developed by Apple. The latest version ARKit 3.5 takes advantage of the new LiDAR Scanner and depth sensing system on iPad Pro(2020) to support a new generation of AR apps that use Scene Geometry for enhanced scene understanding and object occlusion.
+
+[RealityKit](https://developer.apple.com/documentation/realitykit) is a framework to implement high-performance 3D simulation and rendering with information provided by the ARKit framework to seamlessly integrate virtual objects into the real world.
+
+[SceneKit](https://developer.apple.com/scenekit/) is a high-level 3D graphics framework that helps you create 3D animated scenes and effects in your iOS apps.
+
+[Instruments](https://help.apple.com/instruments/mac/current/#/dev7b09c84f5) is a powerful and flexible performance-analysis and testing tool that’s part of the Xcode tool set. It’s designed to help you profile your iOS, watchOS, tvOS, and macOS apps, processes, and devices in order to better understand and optimize their behavior and performance.
+
+[Cocoapods](https://cocoapods.org/) is a dependency manager for Swift and Objective-C used in Xcode projects by specifying the dependencies for your project in a simple text file. CocoaPods then recursively resolves dependencies between libraries, fetches source code for all dependencies, and creates and maintains an Xcode workspace to build your project.
+
+[AppCode](https://www.jetbrains.com/objc/) is constantly monitoring the quality of your code. It warns you of errors and smells and suggests quick-fixes to resolve them automatically. AppCode provides lots of code inspections for Objective-C, Swift, C/C++, and a number of code inspections for other supported languages.
+
 
 # Deep Learning Development
 [Back to the Top](https://github.com/mikeroyal/Machine-Learning-Guide#table-of-contents)
