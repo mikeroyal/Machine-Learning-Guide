@@ -159,6 +159,16 @@
 
 [cuML](https://github.com/rapidsai/cuml) is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects. cuML enables data scientists, researchers, and software engineers to run traditional tabular ML tasks on GPUs without going into the details of CUDA programming. In most cases, cuML's Python API matches the API from scikit-learn.
 
+[MLpack](https://mlpack.org/) is a fast, flexible C++ machine learning library written in C++ and built on the [Armadillo](https://arma.sourceforge.net/) linear algebra library, the [ensmallen](https://ensmallen.org/) numerical optimization library, and parts of [Boost](https://boost.org/). 
+
+[OpenNN](https://www.opennn.net/) is an open-source neural networks library for machine learning. It contains sophisticated algorithms and utilities to deal with many artificial intelligence solutions.
+
+[H20](https://h2o.ai/) is an AI Cloud platform that solves complex business problems and accelerates the discovery of new ideas with results you can understand and trust.
+
+[Veles](https://github.com/Samsung/veles) is a Distributed platform for rapid Deep learning application development currently devloped by Samsung.
+
+[DyNet](https://github.com/clab/dynet) is a neural network library developed by Carnegie Mellon University and many others. It is written in C++ (with bindings in Python) and is designed to be efficient when run on either CPU or GPU, and to work well with networks that have dynamic structures that change for every training instance. These kinds of networks are particularly important in natural language processing tasks, and DyNet has been used to build state-of-the-art systems for syntactic parsing, machine translation, morphological inflection, and many other application areas.
+
 # Algorithms
 [Back to the Top](https://github.com/mikeroyal/Machine-Learning-Guide#table-of-contents)
 
