@@ -10,13 +10,15 @@
  
 <img src="https://user-images.githubusercontent.com/45159366/134075227-d9e361c6-abb7-47bc-9fae-b20f73649696.png">
 
-<img src="https://user-images.githubusercontent.com/45159366/134075233-925d48fd-47f2-44d0-946b-0453272bde35.jpeg">
-
 **Machine Learning/Deep Learning Frameworks.**
 
 # Table of Contents
 
 1. [Learning Resources for ML](https://github.com/mikeroyal/Machine-Learning-Guide#learning-resources-for-ML)
+
+       - [Developer Resources](https://github.com/mikeroyal/Machine-Learning-Guide#developer-resources)
+       - [Courses & Certifications](https://github.com/mikeroyal/Machine-Learning-Guide#courses--certifications)
+       - [Books](https://github.com/mikeroyal/Machine-Learning-Guide#books)
 
 2. [ML Frameworks, Libraries, and Tools](https://github.com/mikeroyal/Machine-Learning-Guide#ML-frameworks-libraries-and-tools)
 
@@ -60,33 +62,100 @@
 
 [Machine Learning](https://www.ibm.com/cloud/learn/machine-learning) is a branch of artificial intelligence (AI) focused on building apps using algorithms that learn from data models and improve their accuracy over time without needing to be programmed.
 
-[Machine Learning by Stanford University from Coursera](https://www.coursera.org/learn/machine-learning)
+<img src="https://user-images.githubusercontent.com/45159366/134075233-925d48fd-47f2-44d0-946b-0453272bde35.jpeg">
 
-[AWS Training and Certification for Machine Learning (ML) Courses](https://aws.amazon.com/training/learning-paths/machine-learning/)
+### Developer Resources
+[Back to the Top](https://github.com/mikeroyal/Machine-Learning-Guide#table-of-contents)
 
-[Machine Learning Scholarship Program for Microsoft Azure from Udacity](https://www.udacity.com/scholarships/machine-learning-scholarship-microsoft-azure)
+- [Azure Machine Learning - ML as a Service | Microsoft Azure](https://azure.microsoft.com/en-us/services/machine-learning/)
 
-[Microsoft Certified: Azure Data Scientist Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-data-scientist)
+- [How to run Jupyter Notebooks in your Azure Machine Learning workspace](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-run-jupyter-notebooks)
 
-[Microsoft Certified: Azure AI Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-ai-engineer)
+- [Machine Learning and Artificial Intelligence | Amazon Web Services](https://aws.amazon.com/machine-learning/)
 
-[Azure Machine Learning training and deployment](https://docs.microsoft.com/en-us/azure/devops/pipelines/targets/azure-machine-learning)
+- [Scheduling Jupyter notebooks on Amazon SageMaker ephemeral instances](https://aws.amazon.com/blogs/machine-learning/scheduling-jupyter-notebooks-on-sagemaker-ephemeral-instances/)
 
-[Learning Machine learning and artificial intelligence from Google Cloud Training](https://cloud.google.com/training/machinelearning-ai)
+- [AI & Machine Learning | Google Cloud](https://cloud.google.com/products/ai/)
 
-[Machine Learning Crash Course for Google Cloud](https://developers.google.com/machine-learning/crash-course/)
+- [Using Jupyter Notebooks with Apache Spark on Google Cloud](https://cloud.google.com/blog/products/gcp/google-cloud-platform-for-data-scientists-using-jupyter-notebooks-with-apache-spark-on-google-cloud)
 
-[JupyterLab](https://jupyterlab.readthedocs.io/)
+- [Machine Learning | Apple Developer](https://developer.apple.com/machine-learning/)
 
-[Scheduling Jupyter notebooks on Amazon SageMaker ephemeral instances](https://aws.amazon.com/blogs/machine-learning/scheduling-jupyter-notebooks-on-sagemaker-ephemeral-instances/)
+- [Artificial Intelligence & Autopilot | Tesla](https://www.tesla.com/AI)
 
-[How to run Jupyter Notebooks in your Azure Machine Learning workspace](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-run-jupyter-notebooks)
+- [Meta AI Tools | Facebook](https://ai.facebook.com/tools/)
 
-[Machine Learning Courses Online from Udemy](https://www.udemy.com/topic/machine-learning/)
+- [PyTorch Tutorials](https://pytorch.org/tutorials/)
 
-[Machine Learning Courses Online from Coursera](https://www.coursera.org/courses?query=machine%20learning&)
+- [TensorFlow Tutorials](https://www.tensorflow.org/tutorials)
 
-[Learn Machine Learning with Online Courses and Classes from edX](https://www.edx.org/learn/machine-learning)
+- [JupyterLab](https://jupyterlab.readthedocs.io/)
+
+
+### Courses & Certifications
+[Back to the Top](https://github.com/mikeroyal/Machine-Learning-Guide#table-of-contents)
+
+- [Machine Learning by Stanford University by Andrew Ng | Coursera](https://www.coursera.org/learn/machine-learning)
+
+- [AWS Training and Certification for Machine Learning (ML) Courses](https://aws.amazon.com/training/learning-paths/machine-learning/)
+
+- [Machine Learning Scholarship Program for Microsoft Azure | Udacity](https://www.udacity.com/scholarships/machine-learning-scholarship-microsoft-azure)
+
+- [Microsoft Certified: Azure Data Scientist Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-data-scientist)
+
+- [Microsoft Certified: Azure AI Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-ai-engineer)
+
+- [Azure Machine Learning training and deployment](https://docs.microsoft.com/en-us/azure/devops/pipelines/targets/azure-machine-learning)
+
+- [Learning Machine learning and artificial intelligence from Google Cloud Training](https://cloud.google.com/training/machinelearning-ai)
+
+- [Machine Learning Crash Course for Google Cloud](https://developers.google.com/machine-learning/crash-course/)
+
+- [Machine Learning Courses Online | Udemy](https://www.udemy.com/topic/machine-learning/)
+
+- [Machine Learning Courses Online | Coursera](https://www.coursera.org/courses?query=machine%20learning&)
+
+- [Learn Machine Learning with Online Courses and Classes | edX](https://www.edx.org/learn/machine-learning)
+
+### Books
+[Back to the Top](https://github.com/mikeroyal/Machine-Learning-Guide#table-of-contents)
+
+ - [Introduction To Machine Learning (PDF)](https://ai.stanford.edu/~nilsson/MLBOOK.pdf)
+ 
+ - [Artificial Intelligence: A Modern Approach by Stuart J. Russel and Peter Norvig](https://www.amazon.com/Artificial-Intelligence-A-Modern-Approach/dp/0134610997/ref=sr_1_1?dchild=1&keywords=artificial+intelligence+a+modern+approach&qid=1626728093&sr=8-1)
+ 
+ - [Deep Learning by Ian Goodfellow, Yoshoua Bengio, and Aaron Courville](https://www.deeplearningbook.org/)
+ 
+ - [The Hundred-Page Machine Learning Book by Andriy Burkov](https://themlbook.com/wiki/doku.php)
+ 
+    - [Hundred-Page Machine Learning Book on GitHub](https://github.com/aburkov/theMLbook)
+ 
+ - [Machine Learning by Tom M. Mitchell](https://www.cs.cmu.edu/~tom/NewChapters.html)
+ 
+ - [Programming Collective Intelligence: Building Smart Web 2.0 Applications by Toby Segaran](https://www.amazon.com/Programming-Collective-Intelligence-Building-Applications/dp/0596529325/ref=sr_1_1?crid=8EI42XMXESGB&keywords=Programming+Collective+Intelligence%3A+Building+Smart+Web+2.0+Applications&qid=1654318595&sprefix=programming+collective+intelligence+building+smart+web+2.0+applications%2Caps%2C194&sr=8-1)
+ 
+ - [Machine Learning: An Algorithmic Perspective, Second Edition](https://www.amazon.com/Machine-Learning-Algorithmic-Perspective-Recognition/dp/1466583282/ref=sr_1_8?crid=2RIQ8OMMASS3&keywords=Pattern+Recognition+and+Machine+Learning&qid=1654318681&sprefix=pattern+recognition+and+machine+learning%2Caps%2C184&sr=8-8)
+
+  - [Pattern Recognition and Machine Learning by Christopher M. Bishop](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/1493938436/ref=sr_1_4?crid=2RIQ8OMMASS3&keywords=Pattern+Recognition+and+Machine+Learning&qid=1654318681&sprefix=pattern+recognition+and+machine+learning%2Caps%2C184&sr=8-4)
+ 
+ - [Natural Language Processing with Python by Steven Bird, Ewan Klein, and Edward Loper](https://www.amazon.com/Natural-Language-Processing-Python-Analyzing/dp/0596516495/ref=sr_1_1?crid=O4XSCF3CNIBN&keywords=Natural+Language+Processing+with+Python&qid=1654318757&sprefix=natural+language+processing+with+python%2Caps%2C285&sr=8-1)
+ 
+ - [Python Machine Learning: A Technical Approach to Machine Learning for Beginners by Leonard Eddison](https://www.amazon.com/Python-Machine-Learning-Technical-Beginners/dp/1986340872/ref=sr_1_1?crid=1W5X2WV05GDQK&keywords=Python+Machine+Learning%3A+A+Technical+Approach+to+Machine+Learning+for+Beginners&qid=1654318782&sprefix=python+machine+learning+a+technical+approach+to+machine+learning+for+beginners%2Caps%2C212&sr=8-1)
+ 
+ - [Bayesian Reasoning and Machine Learning by David Barber](https://www.amazon.com/Bayesian-Reasoning-Machine-Learning-Barber/dp/0521518148/ref=sr_1_1?crid=1J054T5MUCD20&keywords=Bayesian+Reasoning+and+Machine+Learning&qid=1654318807&sprefix=bayesian+reasoning+and+machine+learning%2Caps%2C179&sr=8-1)
+  
+ - [Machine Learning for Absolute Beginners: A Plain English Introduction by Oliver Theobald](https://www.amazon.com/Machine-Learning-Absolute-Beginners-Introduction-ebook/dp/B08RWBSKQB/ref=sr_1_1?crid=1JBS4KEHTY6I5&keywords=Machine+Learning+for+Absolute+Beginners%3A+A+Plain+English+Introduction&qid=1654318861&sprefix=machine+learning+for+absolute+beginners+a+plain+english+introduction%2Caps%2C168&sr=8-1)
+   
+ - [Machine Learning in Action by Ben Wilson](https://www.amazon.com/Machine-Learning-Engineering-Action-Wilson/dp/1617298719/ref=sr_1_1?crid=6S9F2MJHAQX1&keywords=Machine+Learning+in+Action&qid=1654318897&sprefix=machine+learning+in+action%2Caps%2C174&sr=8-1)
+    
+ - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems by Aurélien Géron](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=sr_1_6?crid=2RIQ8OMMASS3&keywords=Pattern+Recognition+and+Machine+Learning&qid=1654318681&sprefix=pattern+recognition+and+machine+learning%2Caps%2C184&sr=8-6)
+     
+ - [Introduction to Machine Learning with Python: A Guide for Data Scientists by Andreas C. Müller & Sarah Guido](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413/ref=sr_1_1?crid=3SGFHBBU06GB6&keywords=Introduction+to+Machine+Learning+with+Python%3A+A+Guide+for+Data+Scientists&qid=1654318969&sprefix=introduction+to+machine+learning+with+python+a+guide+for+data+scientists%2Caps%2C181&sr=8-1)
+ 
+ - [Machine Learning for Hackers: Case Studies and Algorithms to Get you Started by Drew Conway and John Myles White](https://www.amazon.com/Machine-Learning-Hackers-Studies-Algorithms/dp/1449303714/ref=sr_1_1?crid=2PQABQ4T9B8K5&keywords=Machine+Learning+for+Hackers%3A+Case+Studies+and+Algorithms+to+Get+you+Started&qid=1654318629&sprefix=machine+learning+for+hackers+case+studies+and+algorithms+to+get+you+started%2Caps%2C162&sr=8-1)
+ 
+ - [The Elements of Statistical Learning: Data Mining, Inference, and Prediction by Trevor Hastie, Robert Tibshirani, and Jerome Friedman](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/ref=sr_1_1?crid=1HOK9M9GFHTK9&keywords=The+Elements+of+Statistical+Learning%3A+Data+Mining%2C+Inference%2C+and+Prediction&qid=1654318661&sprefix=the+elements+of+statistical+learning+data+mining%2C+inference%2C+and+prediction+%2Caps%2C215&sr=8-1)
+ 
 
 # ML Frameworks, Libraries, and Tools
 [Back to the Top](https://github.com/mikeroyal/Machine-Learning-Guide#table-of-contents)
