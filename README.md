@@ -16,9 +16,9 @@
 
 1. [Learning Resources for ML](https://github.com/mikeroyal/Machine-Learning-Guide#learning-resources-for-ML)
 
-       - [Developer Resources](https://github.com/mikeroyal/Machine-Learning-Guide#developer-resources)
-       - [Courses & Certifications](https://github.com/mikeroyal/Machine-Learning-Guide#courses--certifications)
-       - [Books](https://github.com/mikeroyal/Machine-Learning-Guide#books)
+     - [Developer Resources](https://github.com/mikeroyal/Machine-Learning-Guide#developer-resources)
+     - [Courses & Certifications](https://github.com/mikeroyal/Machine-Learning-Guide#courses--certifications)
+     - [Books](https://github.com/mikeroyal/Machine-Learning-Guide#books)
 
 2. [ML Frameworks, Libraries, and Tools](https://github.com/mikeroyal/Machine-Learning-Guide#ML-frameworks-libraries-and-tools)
 
