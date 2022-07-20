@@ -67,6 +67,10 @@
 ### Developer Resources
 [Back to the Top](https://github.com/mikeroyal/Machine-Learning-Guide#table-of-contents)
 
+- [Natural Language Processing (NLP) Best Practices by Microsoft](https://github.com/microsoft/nlp-recipes)
+
+- [The Autonomous Driving Cookbook by Microsoft](https://github.com/microsoft/AutonomousDrivingCookbook)
+
 - [Azure Machine Learning - ML as a Service | Microsoft Azure](https://azure.microsoft.com/en-us/services/machine-learning/)
 
 - [How to run Jupyter Notebooks in your Azure Machine Learning workspace](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-run-jupyter-notebooks)
@@ -90,7 +94,6 @@
 - [TensorFlow Tutorials](https://www.tensorflow.org/tutorials)
 
 - [JupyterLab](https://jupyterlab.readthedocs.io/)
-
 
 ### Courses & Certifications
 [Back to the Top](https://github.com/mikeroyal/Machine-Learning-Guide#table-of-contents)
@@ -233,6 +236,20 @@
 [OpenNN](https://www.opennn.net/) is an open-source neural networks library for machine learning. It contains sophisticated algorithms and utilities to deal with many artificial intelligence solutions.
 
 [H20](https://h2o.ai/) is an AI Cloud platform that solves complex business problems and accelerates the discovery of new ideas with results you can understand and trust.
+
+[Gensim](https://github.com/RaRe-Technologies/gensim) is a Python library for topic modelling, document indexing and similarity retrieval with large corpora. Target audience is the natural language processing (NLP) and information retrieval (IR) community.
+
+[hmmlearn](https://github.com/hmmlearn/hmmlearn) is a set of algorithms for unsupervised learning and inference of [Hidden Markov Models](https://en.wikipedia.org/wiki/Hidden_Markov_model). 
+
+[Nextjournal](https://nextjournal.com/) is a notebook for reproducible research. It runs anything you can put into a Docker container. Improve your workflow with polyglot notebooks, automatic versioning and real-time collaboration. Save time and money with on-demand provisioning, including GPU support.
+
+[IPython](https://ipython.org/) provides a rich architecture for interactive computing with:
+
+  - A powerful interactive shell.
+  - A kernel for [Jupyter](https://jupyter.org/).
+  - Support for interactive data visualization and use of [GUI toolkits](https://ipython.org/ipython-doc/stable/interactive/reference.html#gui-event-loop-support).
+  - Flexible, [embeddable](https://ipython.org/ipython-doc/stable/interactive/reference.html#embedding-ipython) interpreters to load into your own projects.
+  - Easy to use, high performance tools for [parallel computing](https://ipyparallel.readthedocs.io/en/latest/).
 
 [Veles](https://github.com/Samsung/veles) is a Distributed platform for rapid Deep learning application development currently devloped by Samsung.
 
