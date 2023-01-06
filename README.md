@@ -95,6 +95,8 @@
 
 - [JupyterLab](https://jupyterlab.readthedocs.io/)
 
+- [Stable Diffusion with Core ML on Apple Silicon](https://machinelearning.apple.com/research/stable-diffusion-coreml-apple-silicon)
+
 ### Courses & Certifications
 [Back to the Top](https://github.com/mikeroyal/Machine-Learning-Guide#table-of-contents)
 
