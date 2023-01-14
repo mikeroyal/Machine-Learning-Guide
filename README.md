@@ -233,6 +233,10 @@
 
 [MLpack](https://mlpack.org/) is a fast, flexible C++ machine learning library written in C++ and built on the [Armadillo](https://arma.sourceforge.net/) linear algebra library, the [ensmallen](https://ensmallen.org/) numerical optimization library, and parts of [Boost](https://boost.org/). 
 
+[Netron](https://netron.app/) is a viewer for neural network, deep learning and machine learning models. It supports ONNX, TensorFlow Lite, Caffe, Keras, Darknet, PaddlePaddle, ncnn, MNN, Core ML, RKNN, MXNet, MindSpore Lite, TNN, Barracuda, Tengine, CNTK, TensorFlow.js, Caffe2 and UFF.
+
+[Lightning](https://github.com/Lightning-AI/lightning) is a tool that builds and trains PyTorch models and connect them to the ML lifecycle using Lightning App templates, without handling DIY infrastructure, cost management, scaling, etc..
+
 [OpenNN](https://www.opennn.net/) is an open-source neural networks library for machine learning. It contains sophisticated algorithms and utilities to deal with many artificial intelligence solutions.
 
 [H20](https://h2o.ai/) is an AI Cloud platform that solves complex business problems and accelerates the discovery of new ideas with results you can understand and trust.
@@ -254,6 +258,10 @@
 [Veles](https://github.com/Samsung/veles) is a Distributed platform for rapid Deep learning application development currently devloped by Samsung.
 
 [DyNet](https://github.com/clab/dynet) is a neural network library developed by Carnegie Mellon University and many others. It is written in C++ (with bindings in Python) and is designed to be efficient when run on either CPU or GPU, and to work well with networks that have dynamic structures that change for every training instance. These kinds of networks are particularly important in natural language processing tasks, and DyNet has been used to build state-of-the-art systems for syntactic parsing, machine translation, morphological inflection, and many other application areas.
+
+[Ray](https://github.com/ray-project/ray) is a unified framework for scaling AI and Python applications. It consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.
+
+[whisper.cpp](https://github.com/ggerganov/whisper.cpp) is a high-performance inference of OpenAI's Whisper automatic speech recognition (ASR) model.
 
 # Algorithms
 [Back to the Top](https://github.com/mikeroyal/Machine-Learning-Guide#table-of-contents)
