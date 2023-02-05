@@ -265,6 +265,8 @@
 
 [whisper.cpp](https://github.com/ggerganov/whisper.cpp) is a high-performance inference of OpenAI's Whisper automatic speech recognition (ASR) model.
 
+[ChatGPT Plus](https://openai.com/blog/chatgpt-plus/) is a pilot subscription plan(**$20/month**) for ChatGPT, a conversational AI that can chat with you, answer follow-up questions, and challenge incorrect assumptions.
+
 # Algorithms
 [Back to the Top](https://github.com/mikeroyal/Machine-Learning-Guide#table-of-contents)
 
