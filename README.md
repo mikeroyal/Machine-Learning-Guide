@@ -179,8 +179,6 @@
 
 [Apple CoreML](https://developer.apple.com/documentation/coreml) is a framework that helps integrate machine learning models into your app. Core ML provides a unified representation for all models. Your app uses Core ML APIs and user data to make predictions, and to train or fine-tune models, all on the user's device. A model is the result of applying a machine learning algorithm to a set of training data. You use a model to make predictions based on new input data.
 
-[Tensorflow_macOS](https://github.com/apple/tensorflow_macos) is a Mac-optimized version of TensorFlow and TensorFlow Addons for macOS 11.0+ accelerated using Apple's ML Compute framework.
-
 [Apache OpenNLP](https://opennlp.apache.org/) is an open-source library for a machine learning based toolkit used in the processing of natural language text. It features an API for use cases like [Named Entity Recognition](https://en.wikipedia.org/wiki/Named-entity_recognition), [Sentence Detection](), [POS(Part-Of-Speech) tagging](https://en.wikipedia.org/wiki/Part-of-speech_tagging), [Tokenization](https://en.wikipedia.org/wiki/Tokenization_(data_security)) [Feature extraction](https://en.wikipedia.org/wiki/Feature_extraction), [Chunking](https://en.wikipedia.org/wiki/Chunking_(psychology)), [Parsing](https://en.wikipedia.org/wiki/Parsing), and [Coreference resolution](https://en.wikipedia.org/wiki/Coreference).
 
 [Apache Airflow](https://airflow.apache.org) is an open-source workflow management platform created by the community to programmatically author, schedule and monitor workflows. Install. Principles. Scalable. Airflow has a modular architecture and uses a message queue to orchestrate an arbitrary number of workers. Airflow is ready to scale to infinity.
@@ -208,6 +206,36 @@
 [nGraph](https://github.com/NervanaSystems/ngraph) is an open source C++ library, compiler and runtime for Deep Learning. The nGraph Compiler aims to accelerate developing AI workloads using any deep learning framework and deploying to a variety of hardware targets.It provides the freedom, performance, and ease-of-use to AI developers.
 
 [NVIDIA cuDNN](https://developer.nvidia.com/cudnn) is a GPU-accelerated library of primitives for [deep neural networks](https://developer.nvidia.com/deep-learning). cuDNN provides highly tuned implementations for standard routines such as forward and backward convolution, pooling, normalization, and activation layers. cuDNN accelerates widely used deep learning frameworks, including [Caffe2](https://caffe2.ai/), [Chainer](https://chainer.org/), [Keras](https://keras.io/), [MATLAB](https://www.mathworks.com/solutions/deep-learning.html), [MxNet](https://mxnet.incubator.apache.org/), [PyTorch](https://pytorch.org/), and [TensorFlow](https://www.tensorflow.org/).
+
+[Huginn](https://github.com/huginn/huginn) is a self-hosted system for building agents that perform automated tasks for you online. It can read the web, watch for events, and take actions on your behalf. Huginn's Agents create and consume events, propagating them along a directed graph. Think of it as a hackable version of IFTTT or Zapier on your own server. 
+
+[Netron](https://netron.app/) is a viewer for neural network, deep learning and machine learning models. It supports ONNX, TensorFlow Lite, Caffe, Keras, Darknet, PaddlePaddle, ncnn, MNN, Core ML, RKNN, MXNet, MindSpore Lite, TNN, Barracuda, Tengine, CNTK, TensorFlow.js, Caffe2 and UFF.
+
+[Dopamine](https://github.com/google/dopamine) is a research framework for fast prototyping of reinforcement learning algorithms. 
+
+[DALI](https://github.com/NVIDIA/DALI) is a GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications.
+
+[MindSpore Lite](https://github.com/mindspore-ai/mindspore) is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios. 
+
+[Darknet](https://github.com/pjreddie/darknet) is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
+
+[PaddlePaddle](https://github.com/PaddlePaddle/Paddle) is an easy-to-use, efficient, flexible and scalable deep learning platform, which is originally developed by Baidu scientists and engineers for the purpose of applying deep learning to many products at Baidu. 
+
+[NCNN](https://github.com/Tencent/ncnn) is a high-performance neural network inference framework optimized for the mobile platform. 
+
+[MNN](https://github.com/alibaba/MNN) is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba.
+
+[MediaPipe](https://mediapipe.dev/) is an optimized for end-to-end performance on a wide array of platforms. See demos Learn more Complex on-device ML, simplified We've abstracted away the complexities of making on-device ML customizable, production-ready, and accessible across platforms.
+
+[MegEngine](https://github.com/MegEngine) is a fast, scalable, and user friendly deep learning framework with 3 key features: Unified framework for both training and inference.
+
+[ML.NET](https://dot.net/ml) is a machine learning library that is designed as an extensible platform so that you can consume other popular ML frameworks (TensorFlow, ONNX, Infer.NET, and more) and have access to even more machine learning scenarios, like image classification, object detection, and more. 
+
+[Ludwig](https://ludwig.ai/) is a [declarative machine learning framework](https://ludwig-ai.github.io/ludwig-docs/latest/user_guide/what_is_ludwig/#why-declarative-machine-learning-systems) that makes it easy to define machine learning pipelines using a simple and flexible data-driven configuration system. 
+
+[GluonTS](https://ts.gluon.ai/) is a Python package for probabilistic time series modeling, focusing on deep learning based models, based on [PyTorch](https://pytorch.org/) and [MXNet](https://mxnet.apache.org/).
+
+[MindsDB](http://mindsdb.com/) is a ML-SQL Server enables machine learning workflows for the most powerful databases and data warehouses using SQL.
 
 [Jupyter Notebook](https://jupyter.org/) is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Jupyter is used widely in industries that do data cleaning and transformation, numerical simulation, statistical modeling, data visualization, data science, and machine learning.
 
