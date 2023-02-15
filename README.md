@@ -1169,6 +1169,8 @@
 
 [OpenCV](https://opencv.org) is a highly optimized library with focus on real-time computer vision applications. The C++, Python, and Java interfaces support Linux, MacOS, Windows, iOS, and Android.
 
+[Microsoft Computer Vision Recipes](https://github.com/microsoft/computervision-recipes) is a project that provides examples and best practice guidelines for building computer vision systems. This allows people to build a comprehensive set of tools and examples that leverage recent advances in Computer Vision algorithms, neural architectures, and operationalizing such systems. Creatin from existing state-of-the-art libraries and build additional utility around loading image data, optimizing and evaluating models, and scaling up to the cloud. 
+
 [Microsoft Cognitive Toolkit (CNTK)](https://docs.microsoft.com/en-us/cognitive-toolkit/) is an open-source toolkit for commercial-grade distributed deep learning. It describes neural networks as a series of computational steps via a directed graph. CNTK allows the user to easily realize and combine popular model types such as feed-forward DNNs, convolutional neural networks (CNNs) and recurrent neural networks (RNNs/LSTMs). CNTK implements stochastic gradient descent (SGD, error backpropagation) learning with automatic differentiation and parallelization across multiple GPUs and servers.
 
 [Scikit-Learn](https://scikit-learn.org/stable/index.html) is a Python module for machine learning built on top of SciPy, NumPy, and matplotlib, making it easier to apply robust and simple implementations of many popular machine learning algorithms.
