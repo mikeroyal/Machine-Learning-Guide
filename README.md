@@ -261,6 +261,10 @@
 
 [cuML](https://github.com/rapidsai/cuml) is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects. cuML enables data scientists, researchers, and software engineers to run traditional tabular ML tasks on GPUs without going into the details of CUDA programming. In most cases, cuML's Python API matches the API from scikit-learn.
 
+[Emu](https://calebwin.github.io/emu) is a GPGPU library for Rust with a focus on portability, modularity, and performance. It's a CUDA-esque compute-specific abstraction over WebGPU providing specific functionality to make WebGPU feel more like CUDA.
+
+[Scalene](https://github.com/plasma-umass/scalene) is a high-performance CPU, GPU and memory profiler for Python that does a number of things that other Python profilers do not and cannot do. It runs orders of magnitude faster than many other profilers while delivering far more detailed information. 
+
 [MLpack](https://mlpack.org/) is a fast, flexible C++ machine learning library written in C++ and built on the [Armadillo](https://arma.sourceforge.net/) linear algebra library, the [ensmallen](https://ensmallen.org/) numerical optimization library, and parts of [Boost](https://boost.org/). 
 
 [Netron](https://netron.app/) is a viewer for neural network, deep learning and machine learning models. It supports ONNX, TensorFlow Lite, Caffe, Keras, Darknet, PaddlePaddle, ncnn, MNN, Core ML, RKNN, MXNet, MindSpore Lite, TNN, Barracuda, Tengine, CNTK, TensorFlow.js, Caffe2 and UFF.
@@ -272,6 +276,8 @@
 [H20](https://h2o.ai/) is an AI Cloud platform that solves complex business problems and accelerates the discovery of new ideas with results you can understand and trust.
 
 [Gensim](https://github.com/RaRe-Technologies/gensim) is a Python library for topic modelling, document indexing and similarity retrieval with large corpora. Target audience is the natural language processing (NLP) and information retrieval (IR) community.
+
+[llama.cpp](https://github.com/ggerganov/llama.cpp) is a Port of Facebook's LLaMA model in C/C++.
 
 [hmmlearn](https://github.com/hmmlearn/hmmlearn) is a set of algorithms for unsupervised learning and inference of [Hidden Markov Models](https://en.wikipedia.org/wiki/Hidden_Markov_model). 
 
