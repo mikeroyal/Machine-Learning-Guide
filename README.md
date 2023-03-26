@@ -233,6 +233,12 @@
 
 [Ludwig](https://ludwig.ai/) is a [declarative machine learning framework](https://ludwig-ai.github.io/ludwig-docs/latest/user_guide/what_is_ludwig/#why-declarative-machine-learning-systems) that makes it easy to define machine learning pipelines using a simple and flexible data-driven configuration system. 
 
+[MMdnn](https://github.com/microsoft/MMdnn) is a comprehensive and cross-framework tool to convert, visualize and diagnose deep learning (DL) models. The "MM" stands for model management, and "dnn" is the acronym of deep neural network. Convert models between Caffe, Keras, MXNet, Tensorflow, CNTK, PyTorch Onnx and CoreML. 
+
+[Horovod](https://github.com/horovod/horovod) is a distributed deep learning training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.  
+
+[Vaex](https://vaex.io/) is a high performance Python library for lazy Out-of-Core DataFrames (similar to Pandas), to visualize and explore big tabular datasets.
+
 [GluonTS](https://ts.gluon.ai/) is a Python package for probabilistic time series modeling, focusing on deep learning based models, based on [PyTorch](https://pytorch.org/) and [MXNet](https://mxnet.apache.org/).
 
 [MindsDB](http://mindsdb.com/) is a ML-SQL Server enables machine learning workflows for the most powerful databases and data warehouses using SQL.
