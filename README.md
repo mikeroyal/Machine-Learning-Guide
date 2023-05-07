@@ -330,6 +330,26 @@ top of Chatbot UI Lite using Next.js, TypeScript, and Tailwind CSS. This version
 
 [Yeagar ai](https://github.com/yeagerai/yeagerai-agent) is a Langchain Agent creator designed to help you build, prototype, and deploy AI-powered agents with ease.
 
+[Vicuna](https://vicuna.lmsys.org/) is created by fine-tuning a LLaMA base model using approximately 70K user-shared conversations gathered from ShareGPT.com with public APIs. To ensure data quality, it convert the HTML back to markdown and filter out some inappropriate or low-quality samples.
+
+[ShareGPT](https://sharegpt.com/) is a place to share your wildest ChatGPT conversations with one click. With 198,404 conversations shared so far. 
+
+[FastChat](https://github.com/lm-sys/FastChat) is an open platform for training, serving, and evaluating large language model based chatbots.
+
+[Haystack](https://haystack.deepset.ai/) is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, ChatGPT and alike). It offers production-ready tools to quickly build complex decision making, question answering, semantic search, text generation applications, and more. 
+
+[StableLM (Stability AI Language Models)](https://github.com/Stability-AI/StableLM) is StableLM series of language models and will be continuously updated with new checkpoints. 
+
+[Databricks’ Dolly](https://github.com/databrickslabs/dolly) is an instruction-following large language model trained on the Databricks machine learning platform that is licensed for commercial use. 
+
+[GPTCach](https://gptcache.readthedocs.io/) is a Library for Creating Semantic Cache for LLM Queries.
+
+[AlaC](https://github.com/gofireflyio/aiac) is an Artificial Intelligence Infrastructure-as-Code Generator. 
+
+[Adrenaline](https://useadrenaline.com/) is a tool that lets you talk to your codebase. It's powered by static analysis, vector search, and large language models.
+
+[OpenAssistant](https://open-assistant.io/) is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so. 
+
 [DoctorGPT](https://github.com/ingyamilmolinar/doctorgpt) is a lightweight self-contained binary that monitors your application logs for problems and diagnoses them.
 
 [HttpGPT](https://github.com/lucoiso/UEHttpGPT/releases) is an Unreal Engine 5 plugin that facilitates integration with OpenAI's GPT based services (ChatGPT and DALL-E) through asynchronous REST requests, making it easy for developers to communicate with these services. It also includes Editor Tools to integrate Chat GPT and DALL-E image generation directly in the Engine.
