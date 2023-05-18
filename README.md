@@ -354,6 +354,12 @@ top of Chatbot UI Lite using Next.js, TypeScript, and Tailwind CSS. This version
 
 [HttpGPT](https://github.com/lucoiso/UEHttpGPT/releases) is an Unreal Engine 5 plugin that facilitates integration with OpenAI's GPT based services (ChatGPT and DALL-E) through asynchronous REST requests, making it easy for developers to communicate with these services. It also includes Editor Tools to integrate Chat GPT and DALL-E image generation directly in the Engine.
 
+[PaLM 2](https://ai.google/discover/palm2) is a next generation large language model that builds on Google’s legacy of breakthrough research in machine learning and responsible AI. It includes an advanced reasoning tasks, including code and math, classification and question answering, translation and multilingual proficiency, and natural language generation better than our previous state-of-the-art LLMs.
+
+[Med-PaLM](https://sites.research.google/med-palm/) is a large language model (LLM) designed to provide high quality answers to medical questions. It harnesses the power of Google’s large language models, which we have aligned to the medical domain with a set of carefully-curated medical expert demonstrations. 
+
+[Sec-PaLM](https://cloud.google.com/blog/products/identity-security/rsa-google-cloud-security-ai-workbench-generative-ai) is a large language models (LLMs), that accelerate the ability to help people who are responsible for keeping their organizations safe. These new models not only give people a more natural and creative way to understand and manage security.
+
 # Algorithms
 [Back to the Top](https://github.com/mikeroyal/Machine-Learning-Guide#table-of-contents)
 
