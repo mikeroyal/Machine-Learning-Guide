@@ -125,41 +125,75 @@
 ### Books
 [Back to the Top](https://github.com/mikeroyal/Machine-Learning-Guide#table-of-contents)
 
- - [Introduction To Machine Learning (PDF)](https://ai.stanford.edu/~nilsson/MLBOOK.pdf)
+* [Introduction To Machine Learning (PDF)](https://ai.stanford.edu/~nilsson/MLBOOK.pdf)
  
- - [Artificial Intelligence: A Modern Approach by Stuart J. Russel and Peter Norvig](https://www.amazon.com/Artificial-Intelligence-A-Modern-Approach/dp/0134610997/ref=sr_1_1?dchild=1&keywords=artificial+intelligence+a+modern+approach&qid=1626728093&sr=8-1)
+* [Artificial Intelligence: A Modern Approach by Stuart J. Russel and Peter Norvig](https://www.amazon.com/Artificial-Intelligence-A-Modern-Approach/dp/0134610997/ref=sr_1_1?dchild=1&keywords=artificial+intelligence+a+modern+approach&qid=1626728093&sr=8-1)
  
- - [Deep Learning by Ian Goodfellow, Yoshoua Bengio, and Aaron Courville](https://www.deeplearningbook.org/)
+* [Deep Learning by Ian Goodfellow, Yoshoua Bengio, and Aaron Courville](https://www.deeplearningbook.org/)
  
- - [The Hundred-Page Machine Learning Book by Andriy Burkov](https://themlbook.com/wiki/doku.php)
+* [The Hundred-Page Machine Learning Book by Andriy Burkov](https://themlbook.com/wiki/doku.php)
  
     - [Hundred-Page Machine Learning Book on GitHub](https://github.com/aburkov/theMLbook)
  
- - [Machine Learning by Tom M. Mitchell](https://www.cs.cmu.edu/~tom/NewChapters.html)
+* [Machine Learning by Tom M. Mitchell](https://www.cs.cmu.edu/~tom/NewChapters.html)
  
- - [Programming Collective Intelligence: Building Smart Web 2.0 Applications by Toby Segaran](https://www.amazon.com/Programming-Collective-Intelligence-Building-Applications/dp/0596529325/ref=sr_1_1?crid=8EI42XMXESGB&keywords=Programming+Collective+Intelligence%3A+Building+Smart+Web+2.0+Applications&qid=1654318595&sprefix=programming+collective+intelligence+building+smart+web+2.0+applications%2Caps%2C194&sr=8-1)
+* [Programming Collective Intelligence: Building Smart Web 2.0 Applications by Toby Segaran](https://www.amazon.com/Programming-Collective-Intelligence-Building-Applications/dp/0596529325/ref=sr_1_1?crid=8EI42XMXESGB&keywords=Programming+Collective+Intelligence%3A+Building+Smart+Web+2.0+Applications&qid=1654318595&sprefix=programming+collective+intelligence+building+smart+web+2.0+applications%2Caps%2C194&sr=8-1)
  
- - [Machine Learning: An Algorithmic Perspective, Second Edition](https://www.amazon.com/Machine-Learning-Algorithmic-Perspective-Recognition/dp/1466583282/ref=sr_1_8?crid=2RIQ8OMMASS3&keywords=Pattern+Recognition+and+Machine+Learning&qid=1654318681&sprefix=pattern+recognition+and+machine+learning%2Caps%2C184&sr=8-8)
+* [Machine Learning: An Algorithmic Perspective, Second Edition](https://www.amazon.com/Machine-Learning-Algorithmic-Perspective-Recognition/dp/1466583282/ref=sr_1_8?crid=2RIQ8OMMASS3&keywords=Pattern+Recognition+and+Machine+Learning&qid=1654318681&sprefix=pattern+recognition+and+machine+learning%2Caps%2C184&sr=8-8)
 
-  - [Pattern Recognition and Machine Learning by Christopher M. Bishop](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/1493938436/ref=sr_1_4?crid=2RIQ8OMMASS3&keywords=Pattern+Recognition+and+Machine+Learning&qid=1654318681&sprefix=pattern+recognition+and+machine+learning%2Caps%2C184&sr=8-4)
+* [Pattern Recognition and Machine Learning by Christopher M. Bishop](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/1493938436/ref=sr_1_4?crid=2RIQ8OMMASS3&keywords=Pattern+Recognition+and+Machine+Learning&qid=1654318681&sprefix=pattern+recognition+and+machine+learning%2Caps%2C184&sr=8-4)
  
- - [Natural Language Processing with Python by Steven Bird, Ewan Klein, and Edward Loper](https://www.amazon.com/Natural-Language-Processing-Python-Analyzing/dp/0596516495/ref=sr_1_1?crid=O4XSCF3CNIBN&keywords=Natural+Language+Processing+with+Python&qid=1654318757&sprefix=natural+language+processing+with+python%2Caps%2C285&sr=8-1)
+ * [Natural Language Processing with Python by Steven Bird, Ewan Klein, and Edward Loper](https://www.amazon.com/Natural-Language-Processing-Python-Analyzing/dp/0596516495/ref=sr_1_1?crid=O4XSCF3CNIBN&keywords=Natural+Language+Processing+with+Python&qid=1654318757&sprefix=natural+language+processing+with+python%2Caps%2C285&sr=8-1)
  
- - [Python Machine Learning: A Technical Approach to Machine Learning for Beginners by Leonard Eddison](https://www.amazon.com/Python-Machine-Learning-Technical-Beginners/dp/1986340872/ref=sr_1_1?crid=1W5X2WV05GDQK&keywords=Python+Machine+Learning%3A+A+Technical+Approach+to+Machine+Learning+for+Beginners&qid=1654318782&sprefix=python+machine+learning+a+technical+approach+to+machine+learning+for+beginners%2Caps%2C212&sr=8-1)
+ * [Python Machine Learning: A Technical Approach to Machine Learning for Beginners by Leonard Eddison](https://www.amazon.com/Python-Machine-Learning-Technical-Beginners/dp/1986340872/ref=sr_1_1?crid=1W5X2WV05GDQK&keywords=Python+Machine+Learning%3A+A+Technical+Approach+to+Machine+Learning+for+Beginners&qid=1654318782&sprefix=python+machine+learning+a+technical+approach+to+machine+learning+for+beginners%2Caps%2C212&sr=8-1)
  
- - [Bayesian Reasoning and Machine Learning by David Barber](https://www.amazon.com/Bayesian-Reasoning-Machine-Learning-Barber/dp/0521518148/ref=sr_1_1?crid=1J054T5MUCD20&keywords=Bayesian+Reasoning+and+Machine+Learning&qid=1654318807&sprefix=bayesian+reasoning+and+machine+learning%2Caps%2C179&sr=8-1)
+ * [Bayesian Reasoning and Machine Learning by David Barber](https://www.amazon.com/Bayesian-Reasoning-Machine-Learning-Barber/dp/0521518148/ref=sr_1_1?crid=1J054T5MUCD20&keywords=Bayesian+Reasoning+and+Machine+Learning&qid=1654318807&sprefix=bayesian+reasoning+and+machine+learning%2Caps%2C179&sr=8-1)
   
- - [Machine Learning for Absolute Beginners: A Plain English Introduction by Oliver Theobald](https://www.amazon.com/Machine-Learning-Absolute-Beginners-Introduction-ebook/dp/B08RWBSKQB/ref=sr_1_1?crid=1JBS4KEHTY6I5&keywords=Machine+Learning+for+Absolute+Beginners%3A+A+Plain+English+Introduction&qid=1654318861&sprefix=machine+learning+for+absolute+beginners+a+plain+english+introduction%2Caps%2C168&sr=8-1)
+ * [Machine Learning for Absolute Beginners: A Plain English Introduction by Oliver Theobald](https://www.amazon.com/Machine-Learning-Absolute-Beginners-Introduction-ebook/dp/B08RWBSKQB/ref=sr_1_1?crid=1JBS4KEHTY6I5&keywords=Machine+Learning+for+Absolute+Beginners%3A+A+Plain+English+Introduction&qid=1654318861&sprefix=machine+learning+for+absolute+beginners+a+plain+english+introduction%2Caps%2C168&sr=8-1)
    
- - [Machine Learning in Action by Ben Wilson](https://www.amazon.com/Machine-Learning-Engineering-Action-Wilson/dp/1617298719/ref=sr_1_1?crid=6S9F2MJHAQX1&keywords=Machine+Learning+in+Action&qid=1654318897&sprefix=machine+learning+in+action%2Caps%2C174&sr=8-1)
+ * [Machine Learning in Action by Ben Wilson](https://www.amazon.com/Machine-Learning-Engineering-Action-Wilson/dp/1617298719/ref=sr_1_1?crid=6S9F2MJHAQX1&keywords=Machine+Learning+in+Action&qid=1654318897&sprefix=machine+learning+in+action%2Caps%2C174&sr=8-1)
     
- - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems by Aurélien Géron](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=sr_1_6?crid=2RIQ8OMMASS3&keywords=Pattern+Recognition+and+Machine+Learning&qid=1654318681&sprefix=pattern+recognition+and+machine+learning%2Caps%2C184&sr=8-6)
+ * [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems by Aurélien Géron](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=sr_1_6?crid=2RIQ8OMMASS3&keywords=Pattern+Recognition+and+Machine+Learning&qid=1654318681&sprefix=pattern+recognition+and+machine+learning%2Caps%2C184&sr=8-6)
      
- - [Introduction to Machine Learning with Python: A Guide for Data Scientists by Andreas C. Müller & Sarah Guido](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413/ref=sr_1_1?crid=3SGFHBBU06GB6&keywords=Introduction+to+Machine+Learning+with+Python%3A+A+Guide+for+Data+Scientists&qid=1654318969&sprefix=introduction+to+machine+learning+with+python+a+guide+for+data+scientists%2Caps%2C181&sr=8-1)
+ * [Introduction to Machine Learning with Python: A Guide for Data Scientists by Andreas C. Müller & Sarah Guido](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413/ref=sr_1_1?crid=3SGFHBBU06GB6&keywords=Introduction+to+Machine+Learning+with+Python%3A+A+Guide+for+Data+Scientists&qid=1654318969&sprefix=introduction+to+machine+learning+with+python+a+guide+for+data+scientists%2Caps%2C181&sr=8-1)
  
- - [Machine Learning for Hackers: Case Studies and Algorithms to Get you Started by Drew Conway and John Myles White](https://www.amazon.com/Machine-Learning-Hackers-Studies-Algorithms/dp/1449303714/ref=sr_1_1?crid=2PQABQ4T9B8K5&keywords=Machine+Learning+for+Hackers%3A+Case+Studies+and+Algorithms+to+Get+you+Started&qid=1654318629&sprefix=machine+learning+for+hackers+case+studies+and+algorithms+to+get+you+started%2Caps%2C162&sr=8-1)
+ * [Machine Learning for Hackers: Case Studies and Algorithms to Get you Started by Drew Conway and John Myles White](https://www.amazon.com/Machine-Learning-Hackers-Studies-Algorithms/dp/1449303714/ref=sr_1_1?crid=2PQABQ4T9B8K5&keywords=Machine+Learning+for+Hackers%3A+Case+Studies+and+Algorithms+to+Get+you+Started&qid=1654318629&sprefix=machine+learning+for+hackers+case+studies+and+algorithms+to+get+you+started%2Caps%2C162&sr=8-1)
  
- - [The Elements of Statistical Learning: Data Mining, Inference, and Prediction by Trevor Hastie, Robert Tibshirani, and Jerome Friedman](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/ref=sr_1_1?crid=1HOK9M9GFHTK9&keywords=The+Elements+of+Statistical+Learning%3A+Data+Mining%2C+Inference%2C+and+Prediction&qid=1654318661&sprefix=the+elements+of+statistical+learning+data+mining%2C+inference%2C+and+prediction+%2Caps%2C215&sr=8-1)
+ * [The Elements of Statistical Learning: Data Mining, Inference, and Prediction by Trevor Hastie, Robert Tibshirani, and Jerome Friedman](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/ref=sr_1_1?crid=1HOK9M9GFHTK9&keywords=The+Elements+of+Statistical+Learning%3A+Data+Mining%2C+Inference%2C+and+Prediction&qid=1654318661&sprefix=the+elements+of+statistical+learning+data+mining%2C+inference%2C+and+prediction+%2Caps%2C215&sr=8-1)
+
+* [Distributed Machine Learning Patterns](https://github.com/terrytangyuan/distributed-ml-patterns)  - Book (free to read online) + Code
+* [Real World Machine Learning](https://www.manning.com/books/real-world-machine-learning) [Free Chapters]
+* [An Introduction To Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/) - Book + R Code
+* [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) - Book
+* [Think Bayes](https://greenteapress.com/wp/think-bayes/) - Book + Python Code
+* [Mining Massive Datasets](https://infolab.stanford.edu/~ullman/mmds/book.pdf)
+* [A First Encounter with Machine Learning](https://www.ics.uci.edu/~welling/teaching/273ASpring10/IntroMLBook.pdf)
+* [Introduction to Machine Learning](https://alex.smola.org/drafts/thebook.pdf) - Alex Smola and S.V.N. Vishwanathan
+* [A Probabilistic Theory of Pattern Recognition](https://www.szit.bme.hu/~gyorfi/pbook.pdf)
+* [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/pdf/irbookprint.pdf)
+* [Forecasting: principles and practice](https://otexts.com/fpp2/)
+* [Introduction to Machine Learning](https://arxiv.org/pdf/0904.3664v1.pdf) - Amnon Shashua
+* [Reinforcement Learning](https://www.intechopen.com/books/reinforcement_learning)
+* [Machine Learning](https://www.intechopen.com/books/machine_learning)
+* [A Quest for AI](https://ai.stanford.edu/~nilsson/QAI/qai.pdf)
+* [R Programming for Data Science](https://leanpub.com/rprogramming)
+* [Data Mining - Practical Machine Learning Tools and Techniques](https://cdn.preterhuman.net/texts/science_and_technology/artificial_intelligence/Data%20Mining%20Practical%20Machine%20Learning%20Tools%20and%20Techniques%202d%20ed%20-%20Morgan%20Kaufmann.pdf) 
+* [Machine Learning with TensorFlow](https://www.manning.com/books/machine-learning-with-tensorflow) 
+* [Machine Learning Systems](https://www.manning.com/books/machine-learning-systems) 
+* [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/) - Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar
+* [AI-Powered Search](https://www.manning.com/books/ai-powered-search) - Trey Grainger, Doug Turnbull, Max Irwin - 
+* [Ensemble Methods for Machine Learning](https://www.manning.com/books/ensemble-methods-for-machine-learning) - Gautam Kunapuli 
+* [Machine Learning Engineering in Action](https://www.manning.com/books/machine-learning-engineering-in-action) - Ben Wilson 
+* [Privacy-Preserving Machine Learning](https://www.manning.com/books/privacy-preserving-machine-learning) - J. Morris Chang, Di Zhuang, G. Dumindu Samaraweera 
+* [Automated Machine Learning in Action](https://www.manning.com/books/automated-machine-learning-in-action) - Qingquan Song, Haifeng Jin, and Xia Hu 
+* [Distributed Machine Learning Patterns](https://www.manning.com/books/distributed-machine-learning-patterns) - Yuan Tang 
+* [Managing Machine Learning Projects: From design to deployment](https://www.manning.com/books/managing-machine-learning-projects) - Simon Thompson
+* [Causal Machine Learning](https://www.manning.com/books/causal-machine-learning) - Robert Ness 
+* [Bayesian Optimization in Action](https://www.manning.com/books/bayesian-optimization-in-action) - Quan Nguyen 
+* [Machine Learning Algorithms in Depth](https://www.manning.com/books/machine-learning-algorithms-in-depth)) - Vadim Smolyakov 
+* [Optimization Algorithms](https://www.manning.com/books/optimization-algorithms) - Alaa Khamis -
+* [Practical Gradient Boosting](https://www.amazon.com/dp/B0BL1HRD6Z) by Guillaume Saupin
+
  
 
 # ML Frameworks, Libraries, and Tools
