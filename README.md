@@ -261,6 +261,16 @@
 
 [PaddlePaddle](https://github.com/PaddlePaddle/Paddle) is an easy-to-use, efficient, flexible and scalable deep learning platform, which is originally developed by Baidu scientists and engineers for the purpose of applying deep learning to many products at Baidu. 
 
+[GoogleNotebookLM](https://blog.google/technology/ai/notebooklm-google-ai/) is an experimental AI tool using the power of language models paired with your existing content to gain critical insights, faster. Similar to a virtual research assistant that can summarize facts, explain complex ideas, and brainstorm new connections based on the sources you select.
+
+[Unilm](https://github.com/microsoft/unilm) is a large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities.
+
+[Semantic Kernel (SK)](https://aka.ms/semantic-kernel) is a lightweight SDK enabling integration of AI Large Language Models (LLMs) with conventional programming languages. The SK extensible programming model combines natural language semantic functions, traditional code native functions, and embeddings-based memory unlocking new potential and adding value to applications with AI.
+
+[LocalAI](https://localai.io/) is a self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware with no GPU required. It's an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many others.
+
+[Pandas AI](https://github.com/gventuri/pandas-ai) is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational.
+
 [NCNN](https://github.com/Tencent/ncnn) is a high-performance neural network inference framework optimized for the mobile platform. 
 
 [MNN](https://github.com/alibaba/MNN) is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba.
