@@ -25,6 +25,7 @@
      - [Developer Resources](https://github.com/mikeroyal/Machine-Learning-Guide#developer-resources)
      - [Courses & Certifications](https://github.com/mikeroyal/Machine-Learning-Guide#courses--certifications)
      - [Books](https://github.com/mikeroyal/Machine-Learning-Guide#books)
+     - [YouTube Tutorials](#youtube-tutorials)
 
 2. [ML Frameworks, Libraries, and Tools](https://github.com/mikeroyal/Machine-Learning-Guide#ML-frameworks-libraries-and-tools)
     
@@ -199,10 +200,28 @@
 * [Causal Machine Learning](https://www.manning.com/books/causal-machine-learning) - Robert Ness 
 * [Bayesian Optimization in Action](https://www.manning.com/books/bayesian-optimization-in-action) - Quan Nguyen 
 * [Machine Learning Algorithms in Depth](https://www.manning.com/books/machine-learning-algorithms-in-depth)) - Vadim Smolyakov 
-* [Optimization Algorithms](https://www.manning.com/books/optimization-algorithms) - Alaa Khamis -
+* [Optimization Algorithms](https://www.manning.com/books/optimization-algorithms) - Alaa Khamis
 * [Practical Gradient Boosting](https://www.amazon.com/dp/B0BL1HRD6Z) by Guillaume Saupin
 
- 
+### YouTube Tutorials
+
+[Back to the Top](#table-of-contents)
+
+[![Andrew Ng: Opportunities in AI - Standford 2023](https://ytcards.demolab.com/?id=5p248yoa3oE&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Andrew Ng: Opportunities in AI - Standford 2023")](https://www.youtube.com/watch?v=5p248yoa3oE)
+[![How Does AI Actually Work?](https://ytcards.demolab.com/?id=3ihjz7g1OQM&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "How Does AI Actually Work?")](https://www.youtube.com/watch?v=3ihjz7g1OQM)
+[![AI vs Machine Learning](https://ytcards.demolab.com/?id=4RixMPF4xis&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "AI vs Machine Learning")](https://www.youtube.com/watch?v=4RixMPF4xis)
+[![Machine Learning vs Deep Learning](https://ytcards.demolab.com/?id=q6kJ71tEYqM&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Machine Learning vs Deep Learning")](https://www.youtube.com/watch?v=q6kJ71tEYqM)
+[![What are Transformers (Machine Learning Model)?](https://ytcards.demolab.com/?id=ZXiruGOCn9s&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "What are Transformers (Machine Learning Model)?")](https://www.youtube.com/watch?v=ZXiruGOCn9s)
+[![But what is a neural network? | Chapter 1, Deep learning](https://ytcards.demolab.com/?id=aircAruvnKk&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "But what is a neural network? | Chapter 1, Deep learning")](https://www.youtube.com/watch?v=aircAruvnKk)
+[![Advice for machine learning beginners | Andrej Karpathy and Lex Fridman](https://ytcards.demolab.com/?id=I2ZK3ngNvvI&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Advice for machine learning beginners | Andrej Karpathy and Lex Fridman")](https://www.youtube.com/watch?v=I2ZK3ngNvvI)
+[![Machine Learning Explained in 100 Seconds](https://ytcards.demolab.com/?id=PeMlggyqz0Y&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Machine Learning Explained in 100 Seconds")](https://www.youtube.com/watch?v=PeMlggyqz0Y)
+[![How to learn AI and ML in 2023 - A complete roadmap](https://ytcards.demolab.com/?id=KEB-w9DUdCw&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "How to learn AI and ML in 2023 - A complete roadmap")](https://www.youtube.com/watch?v=KEB-w9DUdCw)
+[![PyTorch for Deep Learning & Machine Learning – Full Course](https://ytcards.demolab.com/?id=V_xro1bcAuA&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "PyTorch for Deep Learning & Machine Learning – Full Course")](https://www.youtube.com/watch?v=V_xro1bcAuA)
+[![Deep Learning for Computer Vision with Python and TensorFlow](https://ytcards.demolab.com/?id=IA3WxTTPXqQ&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Deep Learning for Computer Vision with Python and TensorFlow")](https://www.youtube.com/watch?v=IA3WxTTPXqQ)
+[![How Large Language Models Work](https://ytcards.demolab.com/?id=5sLYAQS9sWQ&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "How Large Language Models Work")](https://www.youtube.com/watch?v=5sLYAQS9sWQ)
+[![What are Large Language Models (LLMs)?](https://ytcards.demolab.com/?id=iR2O2GPbB0E&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "What are Large Language Models (LLMs)?")](https://www.youtube.com/watch?v=iR2O2GPbB0E)
+[![Introduction to large language model](https://ytcards.demolab.com/?id=zizonToFXDs&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Introduction to large language model")](https://www.youtube.com/watch?v=zizonToFXDs)
+[![Create a Large Language Model from Scratch with Python](https://ytcards.demolab.com/?id=UU1WVnMk4E8&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Create a Large Language Model from Scratch with Python")](https://www.youtube.com/watch?v=UU1WVnMk4E8)
 
 # ML Frameworks, Libraries, and Tools
 [Back to the Top](https://github.com/mikeroyal/Machine-Learning-Guide#table-of-contents)
