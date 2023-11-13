@@ -28,7 +28,9 @@
      - [YouTube Tutorials](#youtube-tutorials)
 
 2. [ML Frameworks, Libraries, and Tools](https://github.com/mikeroyal/Machine-Learning-Guide#ML-frameworks-libraries-and-tools)
-    
+
+    - [LLMs Training Frameworks](#llm-training-frameworks)
+    - [Tools for deploying LLMs](#tools-for-deploying-llm)
     - [Running Large Language Models (LLMs) Locally](#running-llms-locally)
     
 3. [Algorithms](https://github.com/mikeroyal/Machine-Learning-Guide#Algorithms)
@@ -428,6 +430,46 @@ top of Chatbot UI Lite using Next.js, TypeScript, and Tailwind CSS. This version
 [Med-PaLM](https://sites.research.google/med-palm/) is a large language model (LLM) designed to provide high quality answers to medical questions. It harnesses the power of Google’s large language models, which we have aligned to the medical domain with a set of carefully-curated medical expert demonstrations. 
 
 [Sec-PaLM](https://cloud.google.com/blog/products/identity-security/rsa-google-cloud-security-ai-workbench-generative-ai) is a large language models (LLMs), that accelerate the ability to help people who are responsible for keeping their organizations safe. These new models not only give people a more natural and creative way to understand and manage security.
+
+### LLM Training Frameworks
+
+[Back to the Top](#table-of-contents)
+ 
+ - [Alpa](https://alpa.ai/index.html) is a system for training and serving large-scale neural networks.
+ - [BayLing](https://github.com/ictnlp/BayLing) - an English/Chinese LLM equipped with advanced language alignment, showing superior capability in English/Chinese generation, instruction following and multi-turn interaction.
+ - [BLOOM](https://huggingface.co/bigscience/bloom) - BigScience Large Open-science Open-access Multilingual Language Model [BLOOM-LoRA](https://github.com/linhduongtuan/BLOOM-LORA)
+ - [Cerebras-GPT](https://www.cerebras.net/blog/cerebras-gpt-a-family-of-open-compute-efficient-large-language-models/) - A Family of Open, Compute-efficient, Large Language Models.
+ - [DeepSpeed](https://www.deepspeed.ai/) is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. 
+ - [FairScale](https://fairscale.readthedocs.io/en/latest/what_is_fairscale.html) is a PyTorch extension library for high performance and large scale training. This library extends basic PyTorch capabilities while adding new SOTA scaling techniques.  
+ - [GLM](https://github.com/THUDM/GLM)- GLM is a General Language Model pretrained with an autoregressive blank-filling objective and can be finetuned on various natural language understanding and generation tasks.
+ - [OpenFlamingo](https://github.com/mlfoundations/open_flamingo) is an open-source framework implementation of DeepMind's [Flamingo](https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model) for training large multimodal models.
+ - [OPT](https://arxiv.org/abs/2205.01068) - Open Pre-trained Transformer Language Models.
+ - [StarCoder](https://huggingface.co/blog/starcoder) - Hugging Face LLM for Code
+ - [UltraLM](https://github.com/thunlp/UltraChat) - Large-scale, Informative, and Diverse Multi-round Chat Models. 
+ - [UL2](https://arxiv.org/abs/2205.05131v1) - a unified framework for pretraining models that are universally effective across datasets and setups. 
+ 
+ 
+### Tools for deploying LLM
+
+[Back to the Top](#table-of-contents)
+
+- [Agenta](https://github.com/agenta-ai/agenta) -  Easily build, version, evaluate and deploy your LLM-powered apps.
+- [BentoML](https://bentoml.com/) for LLMs-based applications.
+- [CometLLM](https://github.com/comet-ml/comet-llm) - A open-source LLMOps platform to log, manage, and visualize your LLM prompts and chains. Track prompt templates, prompt variables, prompt duration, token usage, and other metadata. Score prompt outputs and visualize chat history all within a single UI.
+- [FastChat](https://github.com/lm-sys/FastChat) - A distributed multi-model LLM serving system with web UI and OpenAI-compatible RESTful APIs.
+- [Embedchain](https://github.com/embedchain/embedchain) - Framework to create ChatGPT like bots over your dataset.
+- [IntelliServer](https://github.com/intelligentnode/IntelliServer) - simplifies the evaluation of LLMs by providing a unified microservice to access and test multiple AI models.
+- [Haystack](https://haystack.deepset.ai/) - an open-source NLP framework that allows you to use LLMs and transformer-based models from Hugging Face, OpenAI and Cohere to interact with your own data. 
+- [Langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming.
+- [LangChain](https://github.com/hwchase17/langchain) -  Building applications with LLMs through composability.
+- [LiteChain](https://github.com/rogeriochaves/litechain) - Lightweight alternative to LangChain for composing LLMs .
+- [Magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions.
+- [Promptfoo](https://github.com/typpo/promptfoo) - Test your prompts. Evaluate and compare LLM outputs, catch regressions, and improve prompt quality.
+- [OpenLLM](https://github.com/bentoml/OpenLLM) is an open platform for operating large language models (LLMs) in production. Fine-tune, serve, deploy, and monitor any LLMs with ease.
+- [Serge](https://github.com/serge-chat/serge) - a chat interface crafted with llama.cpp for running Alpaca models. No API keys, entirely self-hosted!
+- [SkyPilot](https://github.com/skypilot-org/skypilot) - Run LLMs and batch jobs on any cloud. Get maximum cost savings, highest GPU availability, and managed execution -- all with a simple interface.
+- [Text Generation Inference](https://github.com/huggingface/text-generation-inference) - A Rust, Python and gRPC server for text generation inference. Used in production at [HuggingFace](https://huggingface.co/) to power LLMs api-inference widgets.
+- [vLLM](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs.
 
 ### Running LLMs Locally
 
